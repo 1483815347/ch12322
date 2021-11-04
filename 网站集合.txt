@@ -1,0 +1,17 @@
+1.H5的区分
+https://www.cnblogs.com/zymnstlm/p/9453425.html
+2.adb连接手机
+http://testingpai.com/article/1595507273133
+3.如何测试邮箱http://testingpai.com/article/1595507263873
+4前台：http://spx.lemfix.com/index.php
+后台： http://spx.lemfix.com/admin.php
+默认账号：admin   默认密码为：shopxo（电商）
+5.物业接口需求http://47.115.15.198:7001/smarthome/swagger-ui.html#/
+6jmeter 常用的MIME类型
+https://blog.csdn.net/shanpan8788/article/details/107834318
+7.浏览器驱动下载
+谷歌驱动：http://npm.taobao.org/mirrors/chromedriver/
+火狐：https://github.com/mozilla/geckodriver/releases
+IE：http://selenium-release.storage.googleapis.com/index.html
+Edge：https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+safari：https://developer.apple.com/safari/download/
